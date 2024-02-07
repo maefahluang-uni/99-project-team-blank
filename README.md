@@ -1,7 +1,24 @@
-# Project -title
-explain your project here
+# NYT-Tracking 
+NYT-Tracking is a comprehensive system designed to digitize and optimize inbound product release work processes. From work order creation to product release, NYT-Tracking automates tasks, enhances visibility, and improves overall efficiency in cargo management.
+
+## Features
+
+- **User Authentication**: Secure login functionality for authorized access.
+- **Work Order Creation**: Create and assign work orders with designated distances and responsible persons.
+- **Work Order Management**: Accept, cancel, and send back work orders as needed.
+- **Product Survey**: Conduct product surveys to record damage and discrepancies.
+- **Barcode Scanning**: Scan product barcodes to load onto tractors and send for release.
+- **Product Verification**: Verify products for release and generate cargo delivery documents.
+- **Access Management**: Administer user access rights and permissions.
+- **Notifications**: Receive real-time notifications for new tasks and updates.
+- **Reporting and Analytics**: Access comprehensive reports and analytics for informed decision-making.
+- **Work Progress Tracking**: Monitor work progress and status updates.
+
 ## Members
-list out your member ID and name.
+1.6431503062 Soranan Budwong
+2.6431503078 Kawin Khantharaksa
+3.6431503099 Phornpat jantongsuk
+4.6431503134 Tun aung lin
 
 ## Instruction
 You need to create skeleton of your project's development. It does not necessary include the complete source code. Please follow instructions below:

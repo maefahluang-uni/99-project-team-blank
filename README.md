@@ -15,10 +15,14 @@ NYT-Tracking is a comprehensive system designed to digitize and optimize inbound
 - **Work Progress Tracking**: Monitor work progress and status updates.
 
 ## Members
-1.6431503062 Soranan Budwong
-2.6431503078 Kawin Khantharaksa
-3.6431503099 Phornpat jantongsuk
-4.6431503134 Tun aung lin
+- 6431503062 Soranan Budwong
+- 6431503078 Kawin Khantharaksa
+- 6431503099 Phornpat jantongsuk
+- 6431503134 Tun aung lin
+
+## Full project github
+
+https://github.com/NickMFU/NYT-App.git
 
 ## Instruction
 You need to create skeleton of your project's development. It does not necessary include the complete source code. Please follow instructions below:

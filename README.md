@@ -3,22 +3,11 @@ NYT-Tracking is a comprehensive system designed to digitize and optimize inbound
 
 ## Features
 
-- **User Authentication**: Secure login functionality for authorized access.
-- **Work Order Creation**: Create and assign work orders with designated distances and responsible persons.
-- **Work Order Management**: Accept, cancel, and send back work orders as needed.
-- **Product Survey**: Conduct product surveys to record damage and discrepancies.
-- **Barcode Scanning**: Scan product barcodes to load onto tractors and send for release.
-- **Product Verification**: Verify products for release and generate cargo delivery documents.
-- **Access Management**: Administer user access rights and permissions.
-- **Notifications**: Receive real-time notifications for new tasks and updates.
 - **Reporting and Analytics**: Access comprehensive reports and analytics for informed decision-making.
-- **Work Progress Tracking**: Monitor work progress and status updates.
 
-## Members
-- 6431503062 Soranan Budwong
-- 6431503078 Kawin Khantharaksa
+## Responsible Person Dev3
+
 - 6431503099 Phornpat jantongsuk
-- 6431503134 Tun aung lin
 
 ## Full project github
 

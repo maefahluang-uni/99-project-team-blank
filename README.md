@@ -7,11 +7,9 @@ NYT-Tracking is a comprehensive system designed to digitize and optimize inbound
 - **Work Order Creation**: Create and assign work orders with designated distances and responsible persons.
 - **Work Order Management**: Accept, cancel, and send back work orders as needed.
 
-## Responsible person
+## Responsible person Dev 1
+
 - 6431503062 Soranan Budwong
-- 6431503078 Kawin Khantharaksa
-- 6431503099 Phornpat jantongsuk
-- 6431503134 Tun aung lin
 
 ## Full project github
 

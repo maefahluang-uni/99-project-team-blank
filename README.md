@@ -1,5 +1,11 @@
-# NYT-Tracking 
+# NYT-Tracking (Mobile Application development for import/export cargo yard management)
+
+Welcome to NYT-Tracking, your all-in-one solution for efficient and streamlined cargo management and tracking. This README file provides an overview of NYT-Tracking, its features, installation instructions, and usage guidelines.
+
+## Overview
+
 NYT-Tracking is a comprehensive system designed to digitize and optimize inbound product release work processes. From work order creation to product release, NYT-Tracking automates tasks, enhances visibility, and improves overall efficiency in cargo management.
+
 
 ## Features
 
